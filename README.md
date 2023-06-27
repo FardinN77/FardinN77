@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FardinN77
+- 👋 Hi, I’m Fardin. Master's student of the Water Management and Engineering Department of Tarbiat Modares University (TMU)
 - 👀 I’m interested in using artificial intelligence (Deep Learning & Machine Learning) techniques and Remote-sensing data in crop yield modeling.
-- 🌱 I’m currently learning deep learning & machine learning techniques.
+- 🌱 I’m currently learning Deep learning & Machine learning techniques.
 - 💞️ I’m looking to collaborate on crop yield forecasting in agriculture.
 - 📫 How to reach me fardinnourmohammadi@gmail.com
 
